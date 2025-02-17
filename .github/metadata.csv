@@ -1,0 +1,6 @@
+SNO   EmployeeID           Name   Department  Salary  JoiningDate
+0         101       John Doe  Engineering   75000   2022-01-15
+1         102     Jane Smith    Marketing   68000   2021-11-30
+2         103    Emily Davis        Sales   72000   2020-05-20
+3         104  Michael Brown  Engineering   80000   2019-08-10
+4         105  Jessica Wilson           HR   65000   2023-02-01
